@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Pichau
- *
- */
-module curso {
-}
